@@ -13,6 +13,9 @@ uartstdio.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/interrupt.h
 uartstdio.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/rom.h
 uartstdio.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/rom_map.h
 uartstdio.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/sysctl.h
+uartstdio.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-arm_16.9.4.LTS/include/stdio.h
+uartstdio.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-arm_16.9.4.LTS/include/linkage.h
+uartstdio.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-arm_16.9.4.LTS/include/stdarg.h
 uartstdio.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/uart.h
 uartstdio.obj: C:/ti/TivaWare_C_Series-2.1.4.178/utils/uartstdio.h
 uartstdio.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-arm_16.9.4.LTS/include/stdarg.h
@@ -30,6 +33,9 @@ C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/interrupt.h:
 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/rom.h: 
 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/rom_map.h: 
 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/sysctl.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-arm_16.9.4.LTS/include/stdio.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-arm_16.9.4.LTS/include/linkage.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-arm_16.9.4.LTS/include/stdarg.h: 
 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/uart.h: 
 C:/ti/TivaWare_C_Series-2.1.4.178/utils/uartstdio.h: 
 C:/ti/ccsv7/tools/compiler/ti-cgt-arm_16.9.4.LTS/include/stdarg.h: 

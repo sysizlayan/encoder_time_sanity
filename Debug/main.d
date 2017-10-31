@@ -20,9 +20,11 @@ main.obj: C:/ti/TivaWare_C_Series-2.1.4.178/inc/hw_i2c.h
 main.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/debug.h
 main.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/fpu.h
 main.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gpio.h
+main.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-arm_16.9.4.LTS/include/stdio.h
 main.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/pin_map.h
 main.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/interrupt.h
 main.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/sysctl.h
+main.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-arm_16.9.4.LTS/include/stdio.h
 main.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/systick.h
 main.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/uart.h
 main.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/rom.h
@@ -35,6 +37,8 @@ main.obj: ../SysTick.h
 main.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-arm_16.9.4.LTS/include/math.h
 main.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-arm_16.9.4.LTS/include/stdio.h
 main.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-arm_16.9.4.LTS/include/string.h
+main.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/sysctl.h
+main.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-arm_16.9.4.LTS/include/stdio.h
 main.obj: ../VelocityTimer.h
 main.obj: ../QEI.h
 
@@ -58,9 +62,11 @@ C:/ti/TivaWare_C_Series-2.1.4.178/inc/hw_i2c.h:
 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/debug.h: 
 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/fpu.h: 
 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gpio.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-arm_16.9.4.LTS/include/stdio.h: 
 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/pin_map.h: 
 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/interrupt.h: 
 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/sysctl.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-arm_16.9.4.LTS/include/stdio.h: 
 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/systick.h: 
 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/uart.h: 
 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/rom.h: 
@@ -73,5 +79,7 @@ C:/ti/ccsv7/tools/compiler/ti-cgt-arm_16.9.4.LTS/include/stdarg.h:
 C:/ti/ccsv7/tools/compiler/ti-cgt-arm_16.9.4.LTS/include/math.h: 
 C:/ti/ccsv7/tools/compiler/ti-cgt-arm_16.9.4.LTS/include/stdio.h: 
 C:/ti/ccsv7/tools/compiler/ti-cgt-arm_16.9.4.LTS/include/string.h: 
+C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/sysctl.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-arm_16.9.4.LTS/include/stdio.h: 
 ../VelocityTimer.h: 
 ../QEI.h: 

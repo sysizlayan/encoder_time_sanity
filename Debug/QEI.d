@@ -21,9 +21,11 @@ QEI.obj: C:/ti/TivaWare_C_Series-2.1.4.178/inc/hw_i2c.h
 QEI.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/debug.h
 QEI.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/fpu.h
 QEI.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gpio.h
+QEI.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-arm_16.9.4.LTS/include/stdio.h
 QEI.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/pin_map.h
 QEI.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/interrupt.h
 QEI.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/sysctl.h
+QEI.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-arm_16.9.4.LTS/include/stdio.h
 QEI.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/systick.h
 QEI.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/uart.h
 QEI.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/rom.h
@@ -54,9 +56,11 @@ C:/ti/TivaWare_C_Series-2.1.4.178/inc/hw_i2c.h:
 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/debug.h: 
 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/fpu.h: 
 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gpio.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-arm_16.9.4.LTS/include/stdio.h: 
 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/pin_map.h: 
 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/interrupt.h: 
 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/sysctl.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-arm_16.9.4.LTS/include/stdio.h: 
 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/systick.h: 
 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/uart.h: 
 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/rom.h: 

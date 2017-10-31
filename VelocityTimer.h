@@ -24,7 +24,7 @@
 
 void initialize_pulse_timer();  // initializes the edge time of a wide-timer
 void read_period_raw();  // interrupt handler of the timer
-void convert_period_to_velocity(void);  // converts raw period count to the dps unit
+float convert_period_to_velocity(void);  // converts raw period count to the dps unit
 
 
 #endif /* PERIPHERALS_VELOCITYTIMER_H_ */

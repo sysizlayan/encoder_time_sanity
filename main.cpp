@@ -8,8 +8,8 @@
 #include "QEI.h"
 
 uint32_t systemClock;
-QEI1* encoder;
-
+//QEI1 encoder(2000,100);
+uint32_t period_raw;
 void uart_stdio_init(uint32_t baudrate)
 {
     ROM_SysCtlPeripheralEnable(SYSCTL_PERIPH_GPIOA); //open clock for port a
@@ -24,23 +24,24 @@ int main(void)
 {
 
     //Initialization of utils to communicate with the device
-
+    float velocity;
     ROM_SysCtlClockSet(SYSCTL_USE_PLL | SYSCTL_OSC_MAIN | SYSCTL_XTAL_16MHZ|SYSCTL_SYSDIV_2_5);//80Mhz Clock
     ROM_FPUEnable();//Enable FPU
     ROM_FPULazyStackingEnable();//Enable FPU stacking while interrupt
 
     systemClock=ROM_SysCtlClockGet();
     systick_setup(0x00FFFFFF); //All 1s
-    ROM_IntMasterDisable(); //Disable all the interrupts during initialization
-    encoder=new QEI1(2000, 100); //Enable QEI with 2000 quadrature pulses and 100Hz velocity sampling rate
+    //ROM_IntMasterDisable(); //Disable all the interrupts during initialization
 
     uart_stdio_init(115200); //UART0, main usb connection in launchpad, as stdio source
-
-    //initialize_pulse_timer();
     ROM_IntMasterEnable();//After initializations, enable all the interrupts
+
+    initialize_pulse_timer();
 
     while(true)
     {
-        UARTprintf("%d %d \n", encoder->get_pos_count(), encoder->get_vel_count());
+        velocity = convert_period_to_velocity();
+        UARTprintf("%d.%d\n", (int)velocity, (int)(1000.0f * velocity - (int)velocity));
+        systick_delay(1);
     }
 }

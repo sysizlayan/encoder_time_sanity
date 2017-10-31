@@ -21,9 +21,11 @@ VelocityTimer.obj: C:/ti/TivaWare_C_Series-2.1.4.178/inc/hw_i2c.h
 VelocityTimer.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/debug.h
 VelocityTimer.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/fpu.h
 VelocityTimer.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gpio.h
+VelocityTimer.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-arm_16.9.4.LTS/include/stdio.h
 VelocityTimer.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/pin_map.h
 VelocityTimer.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/interrupt.h
 VelocityTimer.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/sysctl.h
+VelocityTimer.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-arm_16.9.4.LTS/include/stdio.h
 VelocityTimer.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/systick.h
 VelocityTimer.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/uart.h
 VelocityTimer.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/rom.h
@@ -54,9 +56,11 @@ C:/ti/TivaWare_C_Series-2.1.4.178/inc/hw_i2c.h:
 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/debug.h: 
 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/fpu.h: 
 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/gpio.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-arm_16.9.4.LTS/include/stdio.h: 
 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/pin_map.h: 
 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/interrupt.h: 
 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/sysctl.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-arm_16.9.4.LTS/include/stdio.h: 
 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/systick.h: 
 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/uart.h: 
 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/rom.h: 

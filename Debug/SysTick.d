@@ -16,6 +16,7 @@ SysTick.obj: C:/ti/TivaWare_C_Series-2.1.4.178/inc/hw_types.h
 SysTick.obj: C:/ti/TivaWare_C_Series-2.1.4.178/inc/hw_sysctl.h
 SysTick.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/interrupt.h
 SysTick.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/sysctl.h
+SysTick.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-arm_16.9.4.LTS/include/stdio.h
 SysTick.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/systick.h
 SysTick.obj: C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/rom.h
 
@@ -35,5 +36,6 @@ C:/ti/TivaWare_C_Series-2.1.4.178/inc/hw_types.h:
 C:/ti/TivaWare_C_Series-2.1.4.178/inc/hw_sysctl.h: 
 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/interrupt.h: 
 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/sysctl.h: 
+C:/ti/ccsv7/tools/compiler/ti-cgt-arm_16.9.4.LTS/include/stdio.h: 
 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/systick.h: 
 C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/rom.h: 
