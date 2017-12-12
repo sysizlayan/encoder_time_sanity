@@ -1,0 +1,1251 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(startup_gcc.o)
+                              (ResetISR)
+C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(WInterrupts.o)
+                              C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(startup_gcc.o) (GPIOAIntHandler)
+C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring.o)
+                              C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(startup_gcc.o) (SysTickIntHandler)
+C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring_digital.o)
+                              C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(WInterrupts.o) (digital_pin_to_bit_mask)
+C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+                              ./qei_1.o (HardwareSerial::begin(unsigned long))
+C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(main.o)
+                              C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(startup_gcc.o) (_init)
+C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o)
+                              C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o) (Print::write(unsigned char const*, unsigned int))
+C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(new.o)
+                              C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o) (__cxa_pure_virtual)
+C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(eeprom.o)
+                              C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(main.o) (EEPROMMassErase)
+C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+                              C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring_digital.o) (GPIOPadConfigSet)
+C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(interrupt.o)
+                              C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o) (IntRegister)
+C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(qei.o)
+                              ./qei_1.o (QEIEnable)
+C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+                              C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(eeprom.o) (SysCtlPeripheralReset)
+C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(cpu.o)
+                              C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(interrupt.o) (CPUcpsid)
+c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-malloc.o)
+                              C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o) (malloc)
+c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-freer.o)
+                              c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-malloc.o) (_free_r)
+c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
+                              c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-malloc.o) (_malloc_r)
+c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sbrkr.o)
+                              c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
+c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strlen.o)
+                              C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o) (strlen)
+c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-impure.o)
+                              c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-malloc.o) (_impure_ptr)
+c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
+                              c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-freer.o) (__malloc_lock)
+c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
+                              c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sbrkr.o) (errno)
+c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
+                              C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o) (__aeabi_dsub)
+c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_muldivdf3.o)
+                              C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o) (__aeabi_dmul)
+c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_cmpdf2.o)
+                              C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o) (__aeabi_dcmplt)
+c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_unorddf2.o)
+                              C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o) (__aeabi_dcmpun)
+c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_fixunsdfsi.o)
+                              C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o) (__aeabi_d2uiz)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x4               c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 ./qei_1.o
+ .data          0x00000000        0x0 ./qei_1.o
+ .bss           0x00000000        0x0 ./qei_1.o
+ .bss.pos       0x00000000        0x4 ./qei_1.o
+ .text          0x00000000        0x0 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(startup_gcc.o)
+ .data          0x00000000        0x0 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(startup_gcc.o)
+ .bss           0x00000000        0x0 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(startup_gcc.o)
+ .text.UARTIntHandler
+                0x00000000        0x2 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(startup_gcc.o)
+ .text.UARTIntHandler1
+                0x00000000        0x2 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(startup_gcc.o)
+ .text.UARTIntHandler2
+                0x00000000        0x2 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(startup_gcc.o)
+ .text.UARTIntHandler3
+                0x00000000        0x2 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(startup_gcc.o)
+ .text.UARTIntHandler4
+                0x00000000        0x2 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(startup_gcc.o)
+ .text.UARTIntHandler5
+                0x00000000        0x2 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(startup_gcc.o)
+ .text.UARTIntHandler6
+                0x00000000        0x2 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(startup_gcc.o)
+ .text.UARTIntHandler7
+                0x00000000        0x2 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(startup_gcc.o)
+ .text.link     0x00000000        0x6 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(startup_gcc.o)
+ .text._close   0x00000000        0x6 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(startup_gcc.o)
+ .text._fstat   0x00000000        0xa C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(startup_gcc.o)
+ .text._isatty  0x00000000        0x4 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(startup_gcc.o)
+ .text._lseek   0x00000000        0x4 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(startup_gcc.o)
+ .text._read    0x00000000        0x4 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(startup_gcc.o)
+ .text._write   0x00000000        0x4 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(startup_gcc.o)
+ .text._kill    0x00000000        0x2 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(startup_gcc.o)
+ .text._getpid  0x00000000        0x6 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(startup_gcc.o)
+ .bss.__dso_handle
+                0x00000000        0x4 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(startup_gcc.o)
+ .text          0x00000000        0x0 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(WInterrupts.o)
+ .data          0x00000000        0x0 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(WInterrupts.o)
+ .bss           0x00000000        0x0 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(WInterrupts.o)
+ .text.attachInterrupt
+                0x00000000      0x298 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(WInterrupts.o)
+ .text.detachInterrupt
+                0x00000000      0x17c C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(WInterrupts.o)
+ .text          0x00000000        0x0 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring.o)
+ .data          0x00000000        0x0 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring.o)
+ .bss           0x00000000        0x0 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring.o)
+ .text.CPUwfi_safe
+                0x00000000        0x8 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring.o)
+ .text.micros   0x00000000       0x2c C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring.o)
+ .text.millis   0x00000000        0xc C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring.o)
+ .text.delay    0x00000000       0x18 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring.o)
+ .text.delayMicroseconds
+                0x00000000       0x50 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring.o)
+ .text.sleep    0x00000000       0xcc C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring.o)
+ .text.sleepSeconds
+                0x00000000       0xd4 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring.o)
+ .text.suspend  0x00000000       0x54 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring.o)
+ .text.registerSysTickCb
+                0x00000000       0x1c C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring.o)
+ .bss.stay_asleep
+                0x00000000        0x1 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring.o)
+ .text          0x00000000        0x0 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring_digital.o)
+ .data          0x00000000        0x0 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring_digital.o)
+ .bss           0x00000000        0x0 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring_digital.o)
+ .text.pinMode  0x00000000       0xa8 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring_digital.o)
+ .text.digitalRead
+                0x00000000       0x38 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring_digital.o)
+ .text.digitalWrite
+                0x00000000       0x3c C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring_digital.o)
+ .rodata.digital_pin_to_analog_in
+                0x00000000       0xa4 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring_digital.o)
+ .rodata.digital_pin_to_bit_mask
+                0x00000000       0x29 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring_digital.o)
+ .rodata.digital_pin_to_port
+                0x00000000       0x29 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring_digital.o)
+ .rodata.digital_pin_to_timer
+                0x00000000       0x29 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring_digital.o)
+ .rodata.port_to_base
+                0x00000000       0x1c C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring_digital.o)
+ .rodata.timer_to_ab
+                0x00000000       0x17 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring_digital.o)
+ .rodata.timer_to_offset
+                0x00000000       0x5c C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring_digital.o)
+ .rodata.timer_to_pin_config
+                0x00000000       0x5c C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring_digital.o)
+ .debug_info    0x00000000      0xe06 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring_digital.o)
+ .debug_abbrev  0x00000000      0x27a C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring_digital.o)
+ .debug_loc     0x00000000      0x379 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring_digital.o)
+ .debug_aranges
+                0x00000000       0x30 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring_digital.o)
+ .debug_ranges  0x00000000       0x20 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring_digital.o)
+ .debug_line    0x00000000      0x32e C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring_digital.o)
+ .debug_str     0x00000000      0x87e C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring_digital.o)
+ .comment       0x00000000       0x80 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring_digital.o)
+ .debug_frame   0x00000000       0x74 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring_digital.o)
+ .ARM.attributes
+                0x00000000       0x39 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring_digital.o)
+ .group         0x00000000        0x8 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+ .text          0x00000000        0x0 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+ .data          0x00000000        0x0 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+ .bss           0x00000000        0x0 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+ .text._ZN14HardwareSerial13setBufferSizeEmm
+                0x00000000        0xa C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+ .text._ZN14HardwareSerial9setModuleEm
+                0x00000000       0x48 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+ .text._ZN14HardwareSerial7setPinsEm
+                0x00000000       0x30 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+ .text._ZN14HardwareSerialcvbEv
+                0x00000000        0x4 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+ .text._ZN14HardwareSerial3endEv
+                0x00000000       0x50 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+ .text          0x00000000        0x0 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(main.o)
+ .data          0x00000000        0x0 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(main.o)
+ .bss           0x00000000        0x0 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(main.o)
+ .group         0x00000000        0x8 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o)
+ .group         0x00000000        0x8 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o)
+ .group         0x00000000        0x8 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o)
+ .text          0x00000000        0x0 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o)
+ .data          0x00000000        0x0 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o)
+ .bss           0x00000000        0x0 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o)
+ .text._ZN5Print17availableForWriteEv
+                0x00000000        0x4 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o)
+ .text._ZN5Print5flushEv
+                0x00000000        0x2 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o)
+ .text._ZN5Print5printEPK19__FlashStringHelper
+                0x00000000       0x20 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o)
+ .text._ZN5Print5printERK6String
+                0x00000000        0xa C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o)
+ .text._ZN5Print5printEPKc
+                0x00000000        0x8 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o)
+ .text._ZN5Print5printERK9Printable
+                0x00000000        0xc C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o)
+ .text._ZN5Print7printlnEPK19__FlashStringHelper
+                0x00000000       0x14 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o)
+ .text._ZN5Print7printlnERK6String
+                0x00000000       0x14 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o)
+ .text._ZN5Print7printlnEPKc
+                0x00000000       0x14 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o)
+ .text._ZN5Print7printlnEc
+                0x00000000       0x14 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o)
+ .text._ZN5Print7printlnERK9Printable
+                0x00000000       0x14 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o)
+ .text._ZN5Print5printEli
+                0x00000000       0x44 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o)
+ .text._ZN5Print5printEii
+                0x00000000        0x4 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o)
+ .text._ZN5Print7printlnEii
+                0x00000000       0x14 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o)
+ .text._ZN5Print7printlnEli
+                0x00000000       0x14 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o)
+ .text._ZN5Print5printEhi
+                0x00000000        0x4 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o)
+ .text._ZN5Print7printlnEhi
+                0x00000000       0x14 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o)
+ .text._ZN5Print5printEji
+                0x00000000        0x4 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o)
+ .text._ZN5Print7printlnEji
+                0x00000000       0x14 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o)
+ .text._ZN5Print10printFloatEdh
+                0x00000000      0x178 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o)
+ .text._ZN5Print5printEdi
+                0x00000000        0x6 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o)
+ .text._ZN5Print7printlnEdi
+                0x00000000       0x16 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o)
+ .rodata._ZN5Print10printFloatEdh.str1.1
+                0x00000000        0xc C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o)
+ .rodata._ZTV5Print
+                0x00000000       0x18 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o)
+ .text          0x00000000        0x0 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(new.o)
+ .data          0x00000000        0x0 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(new.o)
+ .bss           0x00000000        0x0 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(new.o)
+ .text._Znwj    0x00000000        0x4 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(new.o)
+ .text._ZdlPv   0x00000000        0x4 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(new.o)
+ .text._Znaj    0x00000000        0x4 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(new.o)
+ .text._ZdaPv   0x00000000        0x4 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(new.o)
+ .text.__cxa_guard_acquire
+                0x00000000        0xa C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(new.o)
+ .text.__cxa_guard_release
+                0x00000000        0x6 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(new.o)
+ .text.__cxa_guard_abort
+                0x00000000        0x2 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(new.o)
+ .text.__cxa_pure_virtual
+                0x00000000        0x2 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(new.o)
+ .debug_info    0x00000000      0xfdb C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(new.o)
+ .debug_abbrev  0x00000000      0x348 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(new.o)
+ .debug_loc     0x00000000       0x39 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(new.o)
+ .debug_aranges
+                0x00000000       0x48 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(new.o)
+ .debug_ranges  0x00000000       0x38 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(new.o)
+ .debug_line    0x00000000      0x34b C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(new.o)
+ .debug_str     0x00000000      0x868 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(new.o)
+ .comment       0x00000000       0x80 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(new.o)
+ .debug_frame   0x00000000       0x90 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(new.o)
+ .ARM.attributes
+                0x00000000       0x39 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(new.o)
+ .text          0x00000000        0x0 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(eeprom.o)
+ .data          0x00000000        0x0 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(eeprom.o)
+ .bss           0x00000000        0x0 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(eeprom.o)
+ .text._EEPROMSectorMaskSet
+                0x00000000       0x40 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(eeprom.o)
+ .text.EEPROMInit
+                0x00000000       0x3c C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(eeprom.o)
+ .text.EEPROMSizeGet
+                0x00000000       0x10 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(eeprom.o)
+ .text.EEPROMBlockCountGet
+                0x00000000       0x10 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(eeprom.o)
+ .text.EEPROMRead
+                0x00000000       0x40 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(eeprom.o)
+ .text.EEPROMProgram
+                0x00000000       0xc0 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(eeprom.o)
+ .text.EEPROMProgramNonBlocking
+                0x00000000       0x44 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(eeprom.o)
+ .text.EEPROMBlockProtectGet
+                0x00000000        0xc C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(eeprom.o)
+ .text.EEPROMBlockProtectSet
+                0x00000000       0x1c C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(eeprom.o)
+ .text.EEPROMBlockPasswordSet
+                0x00000000       0x34 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(eeprom.o)
+ .text.EEPROMBlockLock
+                0x00000000       0x14 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(eeprom.o)
+ .text.EEPROMBlockUnlock
+                0x00000000       0x30 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(eeprom.o)
+ .text.EEPROMBlockHide
+                0x00000000       0x10 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(eeprom.o)
+ .text.EEPROMIntEnable
+                0x00000000       0x20 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(eeprom.o)
+ .text.EEPROMIntDisable
+                0x00000000       0x20 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(eeprom.o)
+ .text.EEPROMIntStatus
+                0x00000000       0x24 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(eeprom.o)
+ .text.EEPROMIntClear
+                0x00000000       0x30 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(eeprom.o)
+ .text.EEPROMStatusGet
+                0x00000000        0xc C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(eeprom.o)
+ .text          0x00000000        0x0 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+ .data          0x00000000        0x0 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+ .bss           0x00000000        0x0 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+ .text._GPIOIntNumberGet
+                0x00000000       0x48 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+ .text.GPIODirModeGet
+                0x00000000       0x24 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+ .text.GPIOIntTypeSet
+                0x00000000       0x5a C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+ .text.GPIOIntTypeGet
+                0x00000000       0x4a C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+ .text.GPIOPadConfigGet
+                0x00000000       0xc4 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+ .text.GPIOIntEnable
+                0x00000000        0xc C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+ .text.GPIOIntDisable
+                0x00000000        0xe C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+ .text.GPIOIntRegister
+                0x00000000       0x1a C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+ .text.GPIOIntUnregister
+                0x00000000       0x16 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+ .text.GPIOIntRegisterPin
+                0x00000000       0x1e C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+ .text.GPIOIntUnregisterPin
+                0x00000000       0x1a C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+ .text.GPIOPinRead
+                0x00000000        0x6 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+ .text.GPIOPinWrite
+                0x00000000        0x6 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+ .text.GPIOPinTypeADC
+                0x00000000       0x1c C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+ .text.GPIOPinTypeCAN
+                0x00000000       0x1c C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+ .text.GPIOPinTypeComparator
+                0x00000000       0x1c C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+ .text.GPIOPinTypeComparatorOutput
+                0x00000000       0x1c C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+ .text.GPIOPinTypeDIVSCLK
+                0x00000000       0x1c C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+ .text.GPIOPinTypeEPI
+                0x00000000       0x1c C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+ .text.GPIOPinTypeEthernetLED
+                0x00000000       0x1c C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+ .text.GPIOPinTypeEthernetMII
+                0x00000000       0x1c C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+ .text.GPIOPinTypeGPIOInput
+                0x00000000       0x1c C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+ .text.GPIOPinTypeGPIOOutput
+                0x00000000       0x1c C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+ .text.GPIOPinTypeGPIOOutputOD
+                0x00000000       0x1c C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+ .text.GPIOPinTypeHibernateRTCCLK
+                0x00000000       0x1c C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+ .text.GPIOPinTypeI2C
+                0x00000000       0x1c C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+ .text.GPIOPinTypeI2CSCL
+                0x00000000       0x1c C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+ .text.GPIOPinTypeLCD
+                0x00000000       0x1c C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+ .text.GPIOPinTypeOneWire
+                0x00000000       0x1c C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+ .text.GPIOPinTypePWM
+                0x00000000       0x1c C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+ .text.GPIOPinTypeSSI
+                0x00000000       0x1c C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+ .text.GPIOPinTypeTimer
+                0x00000000       0x1c C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+ .text.GPIOPinTypeTrace
+                0x00000000       0x1c C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+ .text.GPIOPinTypeUART
+                0x00000000       0x1c C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+ .text.GPIOPinTypeUSBAnalog
+                0x00000000       0x1c C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+ .text.GPIOPinTypeUSBDigital
+                0x00000000       0x1c C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+ .text.GPIOPinTypeWakeHigh
+                0x00000000       0x1e C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+ .text.GPIOPinTypeWakeLow
+                0x00000000       0x1e C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+ .text.GPIOPinWakeStatus
+                0x00000000        0x6 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+ .text.GPIODMATriggerEnable
+                0x00000000        0xc C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+ .text.GPIODMATriggerDisable
+                0x00000000        0xe C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+ .text.GPIOADCTriggerEnable
+                0x00000000        0xc C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+ .text.GPIOADCTriggerDisable
+                0x00000000        0xe C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+ .rodata.g_ppui32GPIOIntMapSnowflake
+                0x00000000       0xd8 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+ .rodata.g_ppui32GPIOIntMapBlizzard
+                0x00000000       0xc0 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+ .text          0x00000000        0x0 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(interrupt.o)
+ .data          0x00000000        0x0 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(interrupt.o)
+ .bss           0x00000000        0x0 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(interrupt.o)
+ .text._IntDefaultHandler
+                0x00000000        0x2 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(interrupt.o)
+ .text.IntMasterEnable
+                0x00000000        0xe C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(interrupt.o)
+ .text.IntMasterDisable
+                0x00000000        0xe C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(interrupt.o)
+ .text.IntRegister
+                0x00000000       0x34 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(interrupt.o)
+ .text.IntUnregister
+                0x00000000       0x14 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(interrupt.o)
+ .text.IntPriorityGroupingSet
+                0x00000000       0x1c C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(interrupt.o)
+ .text.IntPriorityGroupingGet
+                0x00000000       0x24 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(interrupt.o)
+ .text.IntPrioritySet
+                0x00000000       0x2c C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(interrupt.o)
+ .text.IntPriorityGet
+                0x00000000       0x1c C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(interrupt.o)
+ .text.IntEnable
+                0x00000000       0x60 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(interrupt.o)
+ .text.IntDisable
+                0x00000000       0x60 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(interrupt.o)
+ .text.IntIsEnabled
+                0x00000000       0x64 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(interrupt.o)
+ .text.IntPendSet
+                0x00000000       0x50 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(interrupt.o)
+ .text.IntPendClear
+                0x00000000       0x40 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(interrupt.o)
+ .text.IntPriorityMaskSet
+                0x00000000        0x4 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(interrupt.o)
+ .text.IntPriorityMaskGet
+                0x00000000        0x4 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(interrupt.o)
+ .text.IntTrigger
+                0x00000000        0xc C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(interrupt.o)
+ .rodata.g_pui32Priority
+                0x00000000       0x20 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(interrupt.o)
+ .rodata.g_pui32Dii16Regs
+                0x00000000       0x14 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(interrupt.o)
+ .rodata.g_pui32PendRegs
+                0x00000000       0x14 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(interrupt.o)
+ vtable         0x00000000      0x400 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(interrupt.o)
+ .rodata.g_pui32Regs
+                0x00000000       0x9c C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(interrupt.o)
+ .rodata.g_pui32EnRegs
+                0x00000000       0x14 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(interrupt.o)
+ .rodata.g_pui32UnpendRegs
+                0x00000000       0x14 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(interrupt.o)
+ .comment       0x00000000       0x71 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(interrupt.o)
+ .ARM.attributes
+                0x00000000       0x3b C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(interrupt.o)
+ .text          0x00000000        0x0 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(qei.o)
+ .data          0x00000000        0x0 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(qei.o)
+ .bss           0x00000000        0x0 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(qei.o)
+ .text._QEIIntNumberGet
+                0x00000000       0x48 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(qei.o)
+ .text.QEIDisable
+                0x00000000        0xa C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(qei.o)
+ .text.QEIPositionSet
+                0x00000000        0x4 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(qei.o)
+ .text.QEIDirectionGet
+                0x00000000       0x10 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(qei.o)
+ .text.QEIErrorGet
+                0x00000000        0x8 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(qei.o)
+ .text.QEIFilterEnable
+                0x00000000        0xa C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(qei.o)
+ .text.QEIFilterDisable
+                0x00000000        0xa C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(qei.o)
+ .text.QEIFilterConfigure
+                0x00000000        0xc C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(qei.o)
+ .text.QEIVelocityDisable
+                0x00000000        0xa C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(qei.o)
+ .text.QEIIntRegister
+                0x00000000       0x1a C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(qei.o)
+ .text.QEIIntUnregister
+                0x00000000       0x16 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(qei.o)
+ .text.QEIIntEnable
+                0x00000000        0x8 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(qei.o)
+ .text.QEIIntDisable
+                0x00000000        0xa C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(qei.o)
+ .text.QEIIntStatus
+                0x00000000        0xa C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(qei.o)
+ .text.QEIIntClear
+                0x00000000        0x4 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(qei.o)
+ .text          0x00000000        0x0 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .data          0x00000000        0x0 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .bss           0x00000000        0x0 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .text._SysCtlMemTimingGet
+                0x00000000       0x24 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .text.SysCtlSRAMSizeGet
+                0x00000000       0x10 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .text.SysCtlFlashSizeGet
+                0x00000000       0x3c C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .text.SysCtlFlashSectorSizeGet
+                0x00000000       0x38 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .text.SysCtlPeripheralPresent
+                0x00000000       0x26 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .text.SysCtlPeripheralReady
+                0x00000000       0x26 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .text.SysCtlPeripheralPowerOn
+                0x00000000       0x22 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .text.SysCtlPeripheralPowerOff
+                0x00000000       0x22 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .text.SysCtlPeripheralDisable
+                0x00000000       0x22 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .text.SysCtlPeripheralSleepEnable
+                0x00000000       0x22 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .text.SysCtlPeripheralSleepDisable
+                0x00000000       0x22 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .text.SysCtlPeripheralDeepSleepEnable
+                0x00000000       0x22 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .text.SysCtlPeripheralDeepSleepDisable
+                0x00000000       0x22 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .text.SysCtlPeripheralClockGating
+                0x00000000       0x48 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .text.SysCtlIntRegister
+                0x00000000       0x14 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .text.SysCtlIntUnregister
+                0x00000000       0x12 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .text.SysCtlIntEnable
+                0x00000000       0x10 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .text.SysCtlIntDisable
+                0x00000000       0x10 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .text.SysCtlIntClear
+                0x00000000        0xc C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .text.SysCtlIntStatus
+                0x00000000       0x14 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .text.SysCtlLDOSleepSet
+                0x00000000        0xc C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .text.SysCtlLDOSleepGet
+                0x00000000        0xc C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .text.SysCtlLDODeepSleepGet
+                0x00000000        0xc C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .text.SysCtlSleepPowerSet
+                0x00000000        0xc C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .text.SysCtlReset
+                0x00000000       0x10 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .text.SysCtlSleep
+                0x00000000        0x4 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .text.SysCtlDeepSleep
+                0x00000000       0x20 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .text.SysCtlResetCauseGet
+                0x00000000        0xc C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .text.SysCtlResetCauseClear
+                0x00000000       0x10 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .text.SysCtlMOSCConfigSet
+                0x00000000        0xc C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .text.SysCtlPIOSCCalibrate
+                0x00000000       0x48 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .text.SysCtlResetBehaviorSet
+                0x00000000        0xc C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .text.SysCtlResetBehaviorGet
+                0x00000000        0xc C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .text.SysCtlClockFreqSet
+                0x00000000      0x248 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .text.SysCtlClockSet
+                0x00000000      0x11c C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .text.SysCtlDeepSleepClockSet
+                0x00000000        0xc C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .text.SysCtlDeepSleepClockConfigSet
+                0x00000000       0x60 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .text.SysCtlPWMClockSet
+                0x00000000       0x14 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .text.SysCtlPWMClockGet
+                0x00000000       0x18 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .text.SysCtlGPIOAHBEnable
+                0x00000000       0x18 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .text.SysCtlGPIOAHBDisable
+                0x00000000       0x1c C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .text.SysCtlUSBPLLEnable
+                0x00000000       0x10 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .text.SysCtlUSBPLLDisable
+                0x00000000       0x10 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .text.SysCtlVoltageEventConfig
+                0x00000000        0xc C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .text.SysCtlVoltageEventStatus
+                0x00000000        0xc C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .text.SysCtlVoltageEventClear
+                0x00000000       0x10 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .text.SysCtlVCOGet
+                0x00000000       0x78 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .text.SysCtlNMIStatus
+                0x00000000        0xc C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .text.SysCtlNMIClear
+                0x00000000       0x10 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .text.SysCtlClockOutConfig
+                0x00000000       0x10 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .text.SysCtlAltClkConfig
+                0x00000000        0xc C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .rodata.g_pppui32XTALtoVCO
+                0x00000000      0x1b0 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .rodata.g_pui32VCOFrequencies
+                0x00000000        0x8 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .rodata.g_sXTALtoMEMTIM
+                0x00000000       0x30 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .text          0x00000000        0x0 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(cpu.o)
+ .data          0x00000000        0x0 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(cpu.o)
+ .bss           0x00000000        0x0 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(cpu.o)
+ .text.CPUcpsid
+                0x00000000        0x8 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(cpu.o)
+ .text.CPUprimask
+                0x00000000        0x6 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(cpu.o)
+ .text.CPUcpsie
+                0x00000000        0x8 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(cpu.o)
+ .text.CPUwfi   0x00000000        0x4 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(cpu.o)
+ .text.CPUbasepriSet
+                0x00000000        0x6 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(cpu.o)
+ .text.CPUbasepriGet
+                0x00000000        0x6 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(cpu.o)
+ .comment       0x00000000       0x71 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(cpu.o)
+ .ARM.attributes
+                0x00000000       0x3b C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(cpu.o)
+ .text          0x00000000        0x0 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-malloc.o)
+ .data          0x00000000        0x0 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-malloc.o)
+ .bss           0x00000000        0x0 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-malloc.o)
+ .text          0x00000000        0x0 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-freer.o)
+ .data          0x00000000        0x0 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-freer.o)
+ .bss           0x00000000        0x0 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-freer.o)
+ .text          0x00000000        0x0 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
+ .data          0x00000000        0x0 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
+ .bss           0x00000000        0x0 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
+ .text          0x00000000        0x0 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sbrkr.o)
+ .data          0x00000000        0x0 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sbrkr.o)
+ .bss           0x00000000        0x0 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sbrkr.o)
+ .data          0x00000000        0x0 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strlen.o)
+ .bss           0x00000000        0x0 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strlen.o)
+ .text          0x00000000        0x0 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
+ .data          0x00000000        0x0 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
+ .bss           0x00000000        0x0 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
+ .text          0x00000000        0x0 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
+ .data          0x00000000        0x0 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
+ .bss           0x00000000        0x0 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x00000000       0x1a c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0xb8 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
+ .text          0x00000000      0x370 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
+ .data          0x00000000        0x0 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
+ .debug_frame   0x00000000       0xac c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x00000000       0x22 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
+ .text          0x00000000      0x424 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_muldivdf3.o)
+ .data          0x00000000        0x0 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_muldivdf3.o)
+ .bss           0x00000000        0x0 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_muldivdf3.o)
+ .debug_frame   0x00000000       0x50 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x00000000       0x22 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_muldivdf3.o)
+ .text          0x00000000      0x110 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_cmpdf2.o)
+ .data          0x00000000        0x0 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_cmpdf2.o)
+ .bss           0x00000000        0x0 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_cmpdf2.o)
+ .debug_frame   0x00000000       0xc4 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x00000000       0x22 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_cmpdf2.o)
+ .text          0x00000000       0x2c c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_unorddf2.o)
+ .data          0x00000000        0x0 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_unorddf2.o)
+ .bss           0x00000000        0x0 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_unorddf2.o)
+ .debug_frame   0x00000000       0x20 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_unorddf2.o)
+ .ARM.attributes
+                0x00000000       0x22 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_unorddf2.o)
+ .text          0x00000000       0x40 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_fixunsdfsi.o)
+ .data          0x00000000        0x0 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_fixunsdfsi.o)
+ .bss           0x00000000        0x0 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_fixunsdfsi.o)
+ .debug_frame   0x00000000       0x24 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_fixunsdfsi.o)
+ .ARM.attributes
+                0x00000000       0x22 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_arm_fixunsdfsi.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+flash            0x00000000         0x00040000         xr
+ram              0x20000000         0x00008000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./qei_1.o
+START GROUP
+
+.text           0x00000000     0x14fc
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                _text = .
+ *(.isr_vector)
+ .isr_vector    0x00000000      0x26c C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(startup_gcc.o)
+                0x00000000                g_pfnVectors
+ *(.text .text* .gnu.linkonce.t.*)
+ .text.setup    0x0000026c       0x80 ./qei_1.o
+                0x0000026c                setup
+ .text.loop     0x000002ec       0x48 ./qei_1.o
+                0x000002ec                loop
+ .text.I2CIntHandler
+                0x00000334        0x2 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(startup_gcc.o)
+                0x00000334                I2CIntHandler
+ .text.NmiSR    0x00000336        0x2 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(startup_gcc.o)
+ .text.FaultISR
+                0x00000338        0x2 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(startup_gcc.o)
+ .text.IntDefaultHandler
+                0x0000033a        0x2 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(startup_gcc.o)
+ .text.ResetISR
+                0x0000033c       0x98 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(startup_gcc.o)
+                0x0000033c                ResetISR
+ .text.ToneIntHandler
+                0x000003d4        0x2 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(startup_gcc.o)
+                0x000003d4                ToneIntHandler
+ *fill*         0x000003d6        0x2 
+ .text._sbrk    0x000003d8       0x28 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(startup_gcc.o)
+                0x000003d8                _sbrk
+ .text.GPIOXIntHandler
+                0x00000400       0x30 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(WInterrupts.o)
+                0x00000400                GPIOXIntHandler
+ .text.GPIOAIntHandler
+                0x00000430       0x10 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(WInterrupts.o)
+                0x00000430                GPIOAIntHandler
+ .text.GPIOBIntHandler
+                0x00000440       0x10 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(WInterrupts.o)
+                0x00000440                GPIOBIntHandler
+ .text.GPIOCIntHandler
+                0x00000450       0x10 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(WInterrupts.o)
+                0x00000450                GPIOCIntHandler
+ .text.GPIODIntHandler
+                0x00000460       0x10 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(WInterrupts.o)
+                0x00000460                GPIODIntHandler
+ .text.GPIOEIntHandler
+                0x00000470       0x10 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(WInterrupts.o)
+                0x00000470                GPIOEIntHandler
+ .text.GPIOFIntHandler
+                0x00000480       0x10 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(WInterrupts.o)
+                0x00000480                GPIOFIntHandler
+ .text.GPIOGIntHandler
+                0x00000490       0x10 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(WInterrupts.o)
+                0x00000490                GPIOGIntHandler
+ .text.GPIOHIntHandler
+                0x000004a0       0x10 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(WInterrupts.o)
+                0x000004a0                GPIOHIntHandler
+ .text.GPIOJIntHandler
+                0x000004b0       0x10 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(WInterrupts.o)
+                0x000004b0                GPIOJIntHandler
+ .text.GPIOKIntHandler
+                0x000004c0       0x10 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(WInterrupts.o)
+                0x000004c0                GPIOKIntHandler
+ .text.GPIOLIntHandler
+                0x000004d0       0x10 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(WInterrupts.o)
+                0x000004d0                GPIOLIntHandler
+ .text.GPIOMIntHandler
+                0x000004e0       0x10 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(WInterrupts.o)
+                0x000004e0                GPIOMIntHandler
+ .text.GPIONIntHandler
+                0x000004f0       0x10 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(WInterrupts.o)
+                0x000004f0                GPIONIntHandler
+ .text.GPIOPIntHandler
+                0x00000500       0x10 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(WInterrupts.o)
+                0x00000500                GPIOPIntHandler
+ .text.GPIOQIntHandler
+                0x00000510       0x10 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(WInterrupts.o)
+                0x00000510                GPIOQIntHandler
+ .text.timerInit
+                0x00000520       0x58 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring.o)
+                0x00000520                timerInit
+ .text.SysTickIntHandler
+                0x00000578       0x28 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring.o)
+                0x00000578                SysTickIntHandler
+ .text._ZN5Print17availableForWriteEv
+                0x000005a0        0x4 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+                0x000005a0                Print::availableForWrite()
+ .text._ZN14HardwareSerial9availableEv
+                0x000005a4       0x12 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+                0x000005a4                HardwareSerial::available()
+ .text._ZN14HardwareSerial4peekEv
+                0x000005b6       0x12 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+                0x000005b6                HardwareSerial::peek()
+ .text._ZN14HardwareSerial4readEv
+                0x000005c8       0x26 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+                0x000005c8                HardwareSerial::read()
+ *fill*         0x000005ee        0x2 
+ .text._ZN14HardwareSerial5flushEv
+                0x000005f0       0x2c C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+                0x000005f0                HardwareSerial::flush()
+ .text._ZN14HardwareSerialC2Ev
+                0x0000061c       0x30 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+                0x0000061c                HardwareSerial::HardwareSerial()
+                0x0000061c                HardwareSerial::HardwareSerial()
+ .text._ZN14HardwareSerialC2Em
+                0x0000064c       0x30 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+                0x0000064c                HardwareSerial::HardwareSerial(unsigned long)
+                0x0000064c                HardwareSerial::HardwareSerial(unsigned long)
+ .text._ZN14HardwareSerial8flushAllEv
+                0x0000067c       0x34 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+                0x0000067c                HardwareSerial::flushAll()
+ .text._ZN14HardwareSerial13primeTransmitEm
+                0x000006b0       0x80 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+                0x000006b0                HardwareSerial::primeTransmit(unsigned long)
+ .text._ZN14HardwareSerial5writeEh
+                0x00000730       0x5c C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+                0x00000730                HardwareSerial::write(unsigned char)
+ .text._ZN14HardwareSerial5beginEm
+                0x0000078c      0x110 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+                0x0000078c                HardwareSerial::begin(unsigned long)
+ .text._ZN14HardwareSerial14UARTIntHandlerEv
+                0x0000089c       0xcc C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+                0x0000089c                HardwareSerial::UARTIntHandler()
+ .text.UARTIntHandler
+                0x00000968        0xc C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+                0x00000968                UARTIntHandler
+ .text.UARTIntHandler1
+                0x00000974        0xc C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+                0x00000974                UARTIntHandler1
+ .text.UARTIntHandler2
+                0x00000980        0xc C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+                0x00000980                UARTIntHandler2
+ .text.UARTIntHandler3
+                0x0000098c        0xc C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+                0x0000098c                UARTIntHandler3
+ .text.UARTIntHandler4
+                0x00000998        0xc C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+                0x00000998                UARTIntHandler4
+ .text.UARTIntHandler5
+                0x000009a4        0xc C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+                0x000009a4                UARTIntHandler5
+ .text.UARTIntHandler6
+                0x000009b0        0xc C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+                0x000009b0                UARTIntHandler6
+ .text.UARTIntHandler7
+                0x000009bc        0xc C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+                0x000009bc                UARTIntHandler7
+ .text._Z11serialEventv
+                0x000009c8        0x2 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+                0x000009c8                serialEvent()
+ .text._Z12serialEvent1v
+                0x000009ca        0x2 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+                0x000009ca                serialEvent1()
+ .text._Z12serialEvent2v
+                0x000009cc        0x2 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+                0x000009cc                serialEvent2()
+ .text._Z12serialEvent3v
+                0x000009ce        0x2 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+                0x000009ce                serialEvent3()
+ .text._Z12serialEvent4v
+                0x000009d0        0x2 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+                0x000009d0                serialEvent4()
+ .text._Z12serialEvent5v
+                0x000009d2        0x2 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+                0x000009d2                serialEvent5()
+ .text._Z12serialEvent6v
+                0x000009d4        0x2 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+                0x000009d4                serialEvent6()
+ .text._Z12serialEvent7v
+                0x000009d6        0x2 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+                0x000009d6                serialEvent7()
+ .text._Z14serialEventRunv
+                0x000009d8       0x84 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+                0x000009d8                serialEventRun()
+ .text.startup._GLOBAL__sub_I__ZN14HardwareSerialC2Ev
+                0x00000a5c       0x64 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+ .text._init    0x00000ac0      0x140 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(main.o)
+                0x00000ac0                _init
+ .text.startup.main
+                0x00000c00       0x1c C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(main.o)
+                0x00000c00                main
+ .text._ZN5Print5writeEPKhj
+                0x00000c1c       0x2c C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o)
+                0x00000c1c                Print::write(unsigned char const*, unsigned int)
+ .text._ZN5Print5writeEPKc
+                0x00000c48       0x20 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o)
+                0x00000c48                Print::write(char const*)
+ .text._ZN5Print5printEc
+                0x00000c68        0x6 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o)
+                0x00000c68                Print::print(char)
+ *fill*         0x00000c6e        0x2 
+ .text._ZN5Print7printlnEv
+                0x00000c70       0x10 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o)
+                0x00000c70                Print::println()
+ .text._ZN5Print11printNumberEmh
+                0x00000c80       0x3e C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o)
+                0x00000c80                Print::printNumber(unsigned long, unsigned char)
+ .text._ZN5Print5printEmi
+                0x00000cbe       0x1a C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o)
+                0x00000cbe                Print::print(unsigned long, int)
+ .text._ZN5Print7printlnEmi
+                0x00000cd8       0x14 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o)
+                0x00000cd8                Print::println(unsigned long, int)
+ .text._EEPROMWaitForDone
+                0x00000cec       0x10 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(eeprom.o)
+ .text._EEPROMSectorMaskClear
+                0x00000cfc       0x34 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(eeprom.o)
+ .text.EEPROMMassErase
+                0x00000d30       0x58 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(eeprom.o)
+                0x00000d30                EEPROMMassErase
+ .text.GPIODirModeSet
+                0x00000d88       0x2e C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+                0x00000d88                GPIODirModeSet
+ .text.GPIOPadConfigSet
+                0x00000db6      0x130 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+                0x00000db6                GPIOPadConfigSet
+ .text.GPIOIntStatus
+                0x00000ee6        0xe C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+                0x00000ee6                GPIOIntStatus
+ .text.GPIOIntClear
+                0x00000ef4        0x6 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+                0x00000ef4                GPIOIntClear
+ .text.GPIOPinTypeQEI
+                0x00000efa       0x1c C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+                0x00000efa                GPIOPinTypeQEI
+ *fill*         0x00000f16        0x2 
+ .text.GPIOPinConfigure
+                0x00000f18       0x4c C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+                0x00000f18                GPIOPinConfigure
+ .text.QEIEnable
+                0x00000f64        0xa C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(qei.o)
+                0x00000f64                QEIEnable
+ .text.QEIConfigure
+                0x00000f6e        0xe C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(qei.o)
+                0x00000f6e                QEIConfigure
+ .text.QEIPositionGet
+                0x00000f7c        0x4 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(qei.o)
+                0x00000f7c                QEIPositionGet
+ .text.QEIVelocityEnable
+                0x00000f80        0xa C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(qei.o)
+                0x00000f80                QEIVelocityEnable
+ .text.QEIVelocityConfigure
+                0x00000f8a       0x10 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(qei.o)
+                0x00000f8a                QEIVelocityConfigure
+ .text.QEIVelocityGet
+                0x00000f9a        0x4 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(qei.o)
+                0x00000f9a                QEIVelocityGet
+ .text.SysCtlPeripheralReset
+                0x00000f9e       0x3a C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+                0x00000f9e                SysCtlPeripheralReset
+ .text.SysCtlPeripheralEnable
+                0x00000fd8       0x22 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+                0x00000fd8                SysCtlPeripheralEnable
+ *fill*         0x00000ffa        0x2 
+ .text.SysCtlLDODeepSleepSet
+                0x00000ffc        0xc C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+                0x00000ffc                SysCtlLDODeepSleepSet
+ .text.SysCtlDeepSleepPowerSet
+                0x00001008        0xc C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+                0x00001008                SysCtlDeepSleepPowerSet
+ .text.SysCtlDelay
+                0x00001014        0x8 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+                0x00001014                SysCtlDelay
+ .text.SysCtlClockGet
+                0x0000101c      0x12c C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+                0x0000101c                SysCtlClockGet
+ .text.malloc   0x00001148       0x10 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-malloc.o)
+                0x00001148                malloc
+ .text.free     0x00001158       0x10 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-malloc.o)
+                0x00001158                free
+ .text._free_r  0x00001168       0x9c c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-freer.o)
+                0x00001168                _free_r
+ .text._malloc_r
+                0x00001204       0xbc c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
+                0x00001204                _malloc_r
+ .text._sbrk_r  0x000012c0       0x20 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sbrkr.o)
+                0x000012c0                _sbrk_r
+ .text          0x000012e0       0x10 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strlen.o)
+                0x000012e0                strlen
+ .text.__malloc_lock
+                0x000012f0        0x2 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
+                0x000012f0                __malloc_lock
+ .text.__malloc_unlock
+                0x000012f2        0x2 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
+                0x000012f2                __malloc_unlock
+ *(.glue_7t)
+ .glue_7t       0x000012f4        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x000012f4        0x0 linker stubs
+ *(.rodata .rodata* .gnu.linkonce.r.*)
+ .rodata._ZL11g_ulUARTInt
+                0x000012f4       0x20 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+ .rodata._ZL12g_ulUARTBase
+                0x00001314       0x20 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+ .rodata._ZL12g_ulUARTPins
+                0x00001334       0x20 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+ .rodata._ZL12g_ulUARTPort
+                0x00001354       0x20 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+ .rodata._ZL14g_ulUARTConfig
+                0x00001374       0x40 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+ .rodata._ZL14g_ulUARTPeriph
+                0x000013b4       0x20 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+ .rodata._ZTV14HardwareSerial
+                0x000013d4       0x24 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+                0x000013d4                vtable for HardwareSerial
+ .rodata._ZN5Print7printlnEv.str1.1
+                0x000013f8        0x3 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o)
+ *fill*         0x000013fb        0x1 
+ .rodata.g_pui32GPIOBaseAddrs
+                0x000013fc       0x90 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+ .rodata.g_pui32Xtals
+                0x0000148c       0x6c C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x000014f8                . = ALIGN (0x4)
+ *(.init)
+                0x000014f8                . = ALIGN (0x4)
+                0x000014f8                __preinit_array_start = .
+ *(SORT(.preinit_array*))
+ *(.preinit_array)
+                0x000014f8                __preinit_array_end = .
+                0x000014f8                . = ALIGN (0x4)
+                0x000014f8                __init_array_start = .
+ *(SORT(.init_array.*))
+ *(.init_array)
+ .init_array    0x000014f8        0x4 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+                0x000014fc                __init_array_end = .
+                0x000014fc                . = ALIGN (0x4)
+ *(.fini)
+                0x000014fc                . = ALIGN (0x4)
+                0x000014fc                __fini_array_start = .
+ *(.fini_array)
+ *(SORT(.fini_array.*))
+                0x000014fc                __fini_array_end = .
+                0x000014fc                . = ALIGN (0x4)
+                0x000014fc                _etext = .
+
+.vfp11_veneer   0x000014fc        0x0
+ .vfp11_veneer  0x000014fc        0x0 linker stubs
+
+.v4_bx          0x000014fc        0x0
+ .v4_bx         0x000014fc        0x0 linker stubs
+
+.iplt           0x000014fc        0x0
+ .iplt          0x000014fc        0x0 ./qei_1.o
+
+.rel.dyn        0x000014fc        0x0
+ .rel.iplt      0x000014fc        0x0 ./qei_1.o
+
+.data           0x20000000       0x64 load address 0x000014fc
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _data = .
+ *(vtable)
+ *(.data .data* .gnu.linkonce.d.*)
+ .data._impure_ptr
+                0x20000000        0x4 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-impure.o)
+                0x20000000                _impure_ptr
+ .data.impure_data
+                0x20000004       0x60 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-impure.o)
+                0x20000064                _edata = .
+
+.igot.plt       0x20000064        0x0 load address 0x00001560
+ .igot.plt      0x20000064        0x0 ./qei_1.o
+
+.bss            0x20000064      0x3d4 load address 0x00001560
+                0x20000064                . = ALIGN (0x4)
+                0x20000064                _bss = .
+ *(.bss .bss*)
+ .bss.heap_end.7702
+                0x20000064        0x4 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(startup_gcc.o)
+ .bss.cbFuncsA  0x20000068       0x20 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(WInterrupts.o)
+ .bss.cbFuncsB  0x20000088       0x20 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(WInterrupts.o)
+ .bss.cbFuncsC  0x200000a8       0x20 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(WInterrupts.o)
+ .bss.cbFuncsD  0x200000c8       0x20 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(WInterrupts.o)
+ .bss.cbFuncsE  0x200000e8       0x20 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(WInterrupts.o)
+ .bss.cbFuncsF  0x20000108       0x20 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(WInterrupts.o)
+ .bss.cbFuncsG  0x20000128       0x20 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(WInterrupts.o)
+ .bss.cbFuncsH  0x20000148       0x20 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(WInterrupts.o)
+ .bss.cbFuncsJ  0x20000168       0x20 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(WInterrupts.o)
+ .bss.cbFuncsK  0x20000188       0x20 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(WInterrupts.o)
+ .bss.cbFuncsL  0x200001a8       0x20 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(WInterrupts.o)
+ .bss.cbFuncsM  0x200001c8       0x20 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(WInterrupts.o)
+ .bss.cbFuncsN  0x200001e8       0x20 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(WInterrupts.o)
+ .bss.cbFuncsP  0x20000208       0x20 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(WInterrupts.o)
+ .bss.cbFuncsQ  0x20000228       0x20 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(WInterrupts.o)
+ .bss.SysTickCbFuncs
+                0x20000248       0x20 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring.o)
+ .bss.milliseconds
+                0x20000268        0x4 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring.o)
+ .bss.Serial    0x2000026c       0x38 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+                0x2000026c                Serial
+ .bss.Serial1   0x200002a4       0x38 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+                0x200002a4                Serial1
+ .bss.Serial2   0x200002dc       0x38 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+                0x200002dc                Serial2
+ .bss.Serial3   0x20000314       0x38 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+                0x20000314                Serial3
+ .bss.Serial4   0x2000034c       0x38 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+                0x2000034c                Serial4
+ .bss.Serial5   0x20000384       0x38 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+                0x20000384                Serial5
+ .bss.Serial6   0x200003bc       0x38 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+                0x200003bc                Serial6
+ .bss.Serial7   0x200003f4       0x38 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+                0x200003f4                Serial7
+ .bss.__malloc_free_list
+                0x2000042c        0x4 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
+                0x2000042c                __malloc_free_list
+ .bss.__malloc_sbrk_start
+                0x20000430        0x4 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
+                0x20000430                __malloc_sbrk_start
+ *(COMMON)
+ COMMON         0x20000434        0x4 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
+                0x20000434                errno
+                0x20000438                . = ALIGN (0x4)
+                0x20000438                _ebss = .
+                0x20000438                . = ALIGN (0x8)
+                [!provide]                PROVIDE (__exidx_start, .)
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                [!provide]                PROVIDE (__exidx_end, .)
+                0x20000438                . = ALIGN (0x4)
+                0x20000438                _end = .
+                0x20000438                PROVIDE (end, _end)
+                0x20008000                PROVIDE (_estack, (ORIGIN (ram) + LENGTH (ram)))
+LOAD C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a
+LOAD C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a
+LOAD c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a
+LOAD c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a
+LOAD c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a
+END GROUP
+OUTPUT(qei_1.out elf32-littlearm)
+
+.debug_info     0x00000000     0xc4de
+ .debug_info    0x00000000     0x13ce ./qei_1.o
+ .debug_info    0x000013ce     0x1276 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(startup_gcc.o)
+ .debug_info    0x00002644      0xfa9 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(WInterrupts.o)
+ .debug_info    0x000035ed      0xe8b C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring.o)
+ .debug_info    0x00004478     0x354a C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+ .debug_info    0x000079c2     0x13a5 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(main.o)
+ .debug_info    0x00008d67     0x3777 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o)
+
+.debug_abbrev   0x00000000     0x1c62
+ .debug_abbrev  0x00000000      0x349 ./qei_1.o
+ .debug_abbrev  0x00000349      0x300 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(startup_gcc.o)
+ .debug_abbrev  0x00000649      0x2a2 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(WInterrupts.o)
+ .debug_abbrev  0x000008eb      0x2e6 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring.o)
+ .debug_abbrev  0x00000bd1      0x711 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+ .debug_abbrev  0x000012e2      0x32b C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(main.o)
+ .debug_abbrev  0x0000160d      0x655 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o)
+
+.debug_aranges  0x00000000      0x3f0
+ .debug_aranges
+                0x00000000       0x28 ./qei_1.o
+ .debug_aranges
+                0x00000028       0x90 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(startup_gcc.o)
+ .debug_aranges
+                0x000000b8       0xa8 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(WInterrupts.o)
+ .debug_aranges
+                0x00000160       0x70 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring.o)
+ .debug_aranges
+                0x000001d0       0xf8 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+ .debug_aranges
+                0x000002c8       0x28 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(main.o)
+ .debug_aranges
+                0x000002f0      0x100 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o)
+
+.debug_ranges   0x00000000      0x4c0
+ .debug_ranges  0x00000000       0x18 ./qei_1.o
+ .debug_ranges  0x00000018       0x80 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(startup_gcc.o)
+ .debug_ranges  0x00000098       0x98 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(WInterrupts.o)
+ .debug_ranges  0x00000130       0x90 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring.o)
+ .debug_ranges  0x000001c0      0x148 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+ .debug_ranges  0x00000308       0x18 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(main.o)
+ .debug_ranges  0x00000320      0x1a0 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o)
+
+.debug_line     0x00000000     0x24f1
+ .debug_line    0x00000000      0x49d ./qei_1.o
+ .debug_line    0x0000049d      0x428 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(startup_gcc.o)
+ .debug_line    0x000008c5      0x495 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(WInterrupts.o)
+ .debug_line    0x00000d5a      0x439 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring.o)
+ .debug_line    0x00001193      0x786 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+ .debug_line    0x00001919      0x48a C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(main.o)
+ .debug_line    0x00001da3      0x74e C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o)
+
+.debug_str      0x00000000     0x2b4e
+ .debug_str     0x00000000      0x94d ./qei_1.o
+                                0xa4c (size before relaxing)
+ .debug_str     0x0000094d      0x496 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(startup_gcc.o)
+                                0xb82 (size before relaxing)
+ .debug_str     0x00000de3      0x23c C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(WInterrupts.o)
+                                0xa4c (size before relaxing)
+ .debug_str     0x0000101f      0x151 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring.o)
+                                0x92c (size before relaxing)
+ .debug_str     0x00001170     0x152b C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+                               0x2046 (size before relaxing)
+ .debug_str     0x0000269b       0x6d C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(main.o)
+                                0xaa7 (size before relaxing)
+ .debug_str     0x00002708      0x446 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o)
+                               0x1a4d (size before relaxing)
+
+.comment        0x00000000       0xef
+ .comment       0x00000000       0x7f ./qei_1.o
+                                 0x80 (size before relaxing)
+ .comment       0x0000007f       0x80 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(startup_gcc.o)
+ .comment       0x0000007f       0x80 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(WInterrupts.o)
+ .comment       0x0000007f       0x80 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring.o)
+ .comment       0x0000007f       0x80 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+ .comment       0x0000007f       0x80 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(main.o)
+ .comment       0x0000007f       0x80 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o)
+ .comment       0x0000007f       0x70 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(eeprom.o)
+                                 0x71 (size before relaxing)
+ .comment       0x000000ef       0x71 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+ .comment       0x000000ef       0x71 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(qei.o)
+ .comment       0x000000ef       0x71 C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+
+.ARM.attributes
+                0x00000000       0x37
+ .ARM.attributes
+                0x00000000       0x39 ./qei_1.o
+ .ARM.attributes
+                0x00000039       0x39 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(startup_gcc.o)
+ .ARM.attributes
+                0x00000072       0x39 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(WInterrupts.o)
+ .ARM.attributes
+                0x000000ab       0x39 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring.o)
+ .ARM.attributes
+                0x000000e4       0x39 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+ .ARM.attributes
+                0x0000011d       0x39 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(main.o)
+ .ARM.attributes
+                0x00000156       0x39 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o)
+ .ARM.attributes
+                0x0000018f       0x3b C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(eeprom.o)
+ .ARM.attributes
+                0x000001ca       0x3b C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(gpio.o)
+ .ARM.attributes
+                0x00000205       0x3b C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(qei.o)
+ .ARM.attributes
+                0x00000240       0x3b C:/Users/Yigit/AppData/Local/Energia15/packages/energia/hardware/tivac/1.0.3/system/driverlib\libdriverlib.a(sysctl.o)
+ .ARM.attributes
+                0x0000027b       0x34 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-malloc.o)
+ .ARM.attributes
+                0x000002af       0x34 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-freer.o)
+ .ARM.attributes
+                0x000002e3       0x34 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
+ .ARM.attributes
+                0x00000317       0x34 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x0000034b       0x1b c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x00000366       0x34 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000039a       0x34 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x000003ce       0x34 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
+
+.debug_frame    0x00000000      0xc4c
+ .debug_frame   0x00000000       0x50 ./qei_1.o
+ .debug_frame   0x00000050      0x1b0 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(startup_gcc.o)
+ .debug_frame   0x00000200      0x164 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(WInterrupts.o)
+ .debug_frame   0x00000364      0x13c C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring.o)
+ .debug_frame   0x000004a0      0x308 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+ .debug_frame   0x000007a8       0x48 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(main.o)
+ .debug_frame   0x000007f0      0x310 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o)
+ .debug_frame   0x00000b00       0x30 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-malloc.o)
+ .debug_frame   0x00000b30       0x38 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x00000b68       0x2c c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x00000b94       0x2c c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x00000bc0       0x30 c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
+ .debug_frame   0x00000bf0       0x5c c:/ti/ccsv7/tools/compiler/gcc-arm-none-eabi-6-2017-q1-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
+
+.debug_loc      0x00000000     0x142a
+ .debug_loc     0x00000000      0x135 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(startup_gcc.o)
+ .debug_loc     0x00000135      0x228 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(WInterrupts.o)
+ .debug_loc     0x0000035d       0xcc C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(wiring.o)
+ .debug_loc     0x00000429      0x329 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(HardwareSerial.o)
+ .debug_loc     0x00000752      0xcd8 C:/Users/Yigit/Desktop/workspace_v7/EK-TM4C123GXL_core/Debug\libEK-TM4C123GXL_core.a(Print.o)

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?ccsproject version="1.0"?>
+<projectOptions>
+	<ccsVersion value="7.3.0"/>
+	<deviceVariant value="Cortex M.TM4C123GH6PM"/>
+	<deviceFamily value="TMS470"/>
+	<deviceEndianness value="little"/>
+	<codegenToolVersion value="GNU_6.3.1:Linaro"/>
+	<isElfFormat value="true"/>
+	<connection value="common/targetdb/connections/Stellaris_ICDI_Connection.xml"/>
+	<rts value=""/>
+	<createSlaveProjects value=""/>
+	<ignoreDefaultDeviceSettings value="true"/>
+	<origin value="C:\ti\ccsv7\eclipse\plugins\com.ti.ccstudio.energia.core_7.3.0.201708221200\templates\blank.ino"/>
+	<filesToOpen value="qei_1.ino,"/>
+</projectOptions>

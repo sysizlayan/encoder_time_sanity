@@ -8,7 +8,7 @@
 #include "QEI.h"
 
 uint32_t systemClock;
-//QEI1 encoder(2000,100);
+QEI1 encoder(2000,100);
 uint32_t period_raw;
 void uart_stdio_init(uint32_t baudrate)
 {
